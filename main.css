@@ -1,0 +1,54 @@
+/*Project by Ana Mayer for Access Code*/
+
+body{
+  background-color:#A3F0E9
+}
+/*Name with round background*/
+#name {
+    top:20%;
+    left:10%;
+    width:500px;
+    height:500px;
+    color:white;
+    position:absolute;
+    border-radius: 50%;
+    text-align:center;
+    background-color:#FF8585;
+    margin: -25px 0 0 -31px;
+}
+/*Heading name properties*/
+h1{
+    color:white;
+    margin-top: 40%;
+    font-family:sans-serif;
+    font-size:70px;
+    text-align:center;
+}
+
+/*Right Menu*/
+#rightmenu {
+    float:right;
+    text-align:right;
+    margin-top:23%;
+    margin-right:10%;
+    font-family: Helvetica, serif;
+    list-style-type:none;
+}
+/*Right Menu properties and location*/
+.textmenu {
+    font-family: Helvetica, serif;
+    color: white;
+    text-decoration:none;
+    margin-top:16px;
+    font-size:30px;
+    font-weight: bold;  
+}
+/*Changes links to grey when you hover over them*/
+.textmenu:hover {
+    font-family: Helvetica, serif;
+    color: #AAAAB5;
+    text-decoration:none;
+    margin-top:16px;
+    font-size:30px;
+    font-weight: bold;    
+}
