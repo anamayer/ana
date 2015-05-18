@@ -1,0 +1,31 @@
+/*Project by Ana Mayer for Access Code*/
+/*Name with round background*/
+#name {
+    top:20%;
+    left:10%;
+    width:500px;
+    height:500px;
+    color:white;
+    position:absolute;
+    border-radius: 50%;
+    text-align:center;
+    background-color:#FF8585;
+    margin: -25px 0 0 -31px;
+}
+/*Heading name properties*/
+h1{
+    color:white;
+    margin-top: 40%;
+    font-family:sans-serif;
+    font-size:70px;
+    text-align:center;
+}
+html {
+    border: 10px #4d4d4d;
+}
+#container {
+    width:auto;
+    height:auto;
+    float:center;
+    margin-left:50%;
+}
